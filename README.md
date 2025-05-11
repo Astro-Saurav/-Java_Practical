@@ -60,4 +60,4 @@ Welcome to my Java Practical Programs repository! This repo contains solutions t
 ## 📁 How to Run
 1. Make sure you have Java installed. You can check using:
    ```bash
-   java -version
+   java -version https://download.oracle.com/java/24/latest/jdk-24_windows-x64_bin.msi 
